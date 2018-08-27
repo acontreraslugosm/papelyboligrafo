@@ -1,0 +1,208 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Informadora Comercial\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-26 18:27-0500\n"
+"PO-Revision-Date: 2018-08-26 18:27-0500\n"
+"Last-Translator: digitalgecko <soporte@digitalgeckocaracas.io>\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:2c,1;_ex:2c,1\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/menu.php:3
+msgid "Topbar Menu"
+msgstr ""
+
+#: ../includes/register-sidebar.php:6 ../includes/register-sidebar.php:7
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../includes/register-sidebar.php:13 ../includes/register-sidebar.php:14
+msgid "Main Navbar"
+msgstr ""
+
+#: ../templates/header/cart.php:5
+msgid "View your shopping cart"
+msgstr "Ver cesta"
+
+#~ msgid "Add New"
+#~ msgstr "Agregar nuevo"
+
+#~ msgid "Add New Item"
+#~ msgstr "Agregar nuevo elemento"
+
+#~ msgid "Add or remove items"
+#~ msgstr "Agregar o eliminar elemento"
+
+#~ msgid "All Items"
+#~ msgstr "Todos los elementos"
+
+#~ msgid "Are you interested in this product?"
+#~ msgstr "Estás interesado en este producto?"
+
+#~ msgid "Categories"
+#~ msgstr "Categorías"
+
+#, fuzzy
+#~ msgid "Confirm password"
+#~ msgstr "Cambiar contraseña"
+
+#~ msgid "Confirm your password"
+#~ msgstr "Confirma tu contraseña"
+
+#~ msgid "Contact details"
+#~ msgstr "Detalles de contacto"
+
+#~ msgid "Container with background"
+#~ msgstr "Contenedor con fondo"
+
+#~ msgid "Edit Item"
+#~ msgstr "Editar elemento"
+
+#~ msgid "Email address"
+#~ msgstr "Dirección completa"
+
+#, fuzzy
+#~ msgid "Filter items list"
+#~ msgstr "Listado de servicios"
+
+#, fuzzy
+#~ msgid "Items list"
+#~ msgstr "Listado de servicios"
+
+#, fuzzy
+#~ msgid "Items list navigation"
+#~ msgstr "Descripción del tipo de la entrada"
+
+#~ msgid "LogIn"
+#~ msgstr "Iniciar Sesión"
+
+#, fuzzy
+#~ msgid "New Item"
+#~ msgstr "Ver elemento"
+
+#~ msgid "New Item Name"
+#~ msgstr "Nombre del nuevo elemento"
+
+#, fuzzy
+#~ msgid "Not Found"
+#~ msgstr "No encontrado"
+
+#~ msgid "Not found"
+#~ msgstr "No encontrado"
+
+#~ msgid "Not found in Trash"
+#~ msgstr "No encontrado en la papelera"
+
+#, fuzzy
+#~ msgid "Parent Item"
+#~ msgstr "Ver elemento"
+
+#, fuzzy
+#~ msgid "Parent Item:"
+#~ msgstr "Ver elemento"
+
+#~ msgid "Password"
+#~ msgstr "Contraseña"
+
+#, fuzzy
+#~ msgid "Popular Items"
+#~ msgstr "Ver elemento"
+
+#~ msgid "Portfolio"
+#~ msgstr "Portafolio"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Portfolio"
+#~ msgstr "Portafolio"
+
+#~ msgctxt "Post Type General Name"
+#~ msgid "Products"
+#~ msgstr "Productos"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Portfolio"
+#~ msgstr "Portafolio"
+
+#~ msgctxt "Post Type Singular Name"
+#~ msgid "Product"
+#~ msgstr "Producto"
+
+#~ msgid "Product"
+#~ msgstr "Producto"
+
+#~ msgid "Products"
+#~ msgstr "Productos"
+
+#~ msgid "products"
+#~ msgstr "productos"
+
+#~ msgid "Products <br> in stock"
+#~ msgstr "Productos <br> en inventario"
+
+#~ msgid "Products description"
+#~ msgstr "Descripción del producto"
+
+#~ msgid "Refrigeration Equipment and Supplies"
+#~ msgstr "Equipos y Suministros de Refrigeración"
+
+#~ msgid "Register"
+#~ msgstr "Registro"
+
+#~ msgid "Remember"
+#~ msgstr "Recordar"
+
+#~ msgid "Satisfied <br> Customers"
+#~ msgstr "Clientes <br> Satisfechos"
+
+#~ msgid "Search Item"
+#~ msgstr "Buscar elemento"
+
+#~ msgid "Search Items"
+#~ msgstr "Buscar elemento"
+
+#~ msgid "Select language"
+#~ msgstr "Seleccionar idioma"
+
+#~ msgid "Sending..."
+#~ msgstr "Cargando..."
+
+#~ msgid "Separate items with commas"
+#~ msgstr "Separar elementos con columnas"
+
+#~ msgctxt "string url"
+#~ msgid "home"
+#~ msgstr "inicio"
+
+#~ msgctxt "Taxonomy General Name"
+#~ msgid "Categories"
+#~ msgstr "Categorías"
+
+#~ msgctxt "Taxonomy Singular Name"
+#~ msgid "Category"
+#~ msgstr "Categoría"
+
+#~ msgid "Update Item"
+#~ msgstr "Actualizar elemento"
+
+#~ msgid "View Item"
+#~ msgstr "Ver elemento"
+
+#, fuzzy
+#~ msgid "View Items"
+#~ msgstr "Ver elemento"
+
+#~ msgid "Years of <br>Experience"
+#~ msgstr "Años de <br>Experiencia"
+
+#, fuzzy
+#~ msgid "Your password"
+#~ msgstr "Tu contraseña es incorrecta"
